@@ -23,7 +23,7 @@ void printAllComb(int Level,int N)
 
 int main()
 {
-    int N = 4;
+    int N = 4;// later it can be scanned from user and set.
     for(int i=0;i<N;i++)
         {
               for(int j=0;j<N;j++){
